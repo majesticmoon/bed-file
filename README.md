@@ -1,3 +1,8 @@
+# bed file was able to upload to galaxy without return error and produced final output 
+
+
+
+
 # bed-file for ucsc upload of snp information. Returns error message:   
 
 Error
@@ -7,3 +12,6 @@ Unrecognized format line 8 of https://github.com/majesticmoon/bed-file/blob/main
 
 
 yet no line #8 exists 
+
+
+
